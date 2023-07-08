@@ -1,6 +1,7 @@
 ﻿# **Hi, I'm Tigran.**
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Java+Software+Engineer)](https://git.io/typing-svg)
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-### **Java Software Engineer with a passion for creating innovative and scalable solutions. With a strong command of Java and a dedication to continuous learning, I specialize in developing robust applications that exceed expectations.**
+### **I'm Java Software Engineer with a passion for creating innovative and scalable solutions. With a strong command of Java and a dedication to continuous learning, I specialize in developing robust applications that exceed expectations.**
 
 ## **Skills**
 - #### **Java Programming**
@@ -15,5 +16,13 @@
 - #### **Git**
 
 ## **Contact Me**
-![LinkedIn](Aspose.Words.83be409a-9b0b-417c-bc83-1f65473569be.001.png)[](https://www.linkedin.com/in/tigrangrigorean/)
 #### **You can reach out to me via email at tigrangrigoryan003@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/tigrangrigorean/). I'm open to new opportunities and collaborations.**
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=tigrangrigorean)](https://github.com/tigrangrigorean/github-profile-trophy)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tigrangrigorean)](https://git.io/streak-stats)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tigrangrigorean&theme=solarized_dark)
