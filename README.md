@@ -7,7 +7,7 @@
 - #### **Java Programming**
 - #### **Object-Oriented Programming (OOP)**
 - #### **Spring Framework (Spring Boot, Spring MVC, Spring Data)**
-- #### **REST APIs (Swagger API)**
+- #### **REST APIs**
 - #### **Java Database Connectivity (JDBC)**
 - #### **Hibernate**
 - #### **JUnit Testing**
