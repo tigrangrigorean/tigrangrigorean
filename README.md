@@ -21,6 +21,8 @@
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 
+[![codewars](https://www.codewars.com/users/username/badges/large)](https://www.codewars.com/users/username)   
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=tigrangrigorean)](https://github.com/tigrangrigorean/github-profile-trophy)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tigrangrigorean)](https://git.io/streak-stats)
