@@ -15,7 +15,7 @@
 ## **Skills**
 - #### **Java Programming**
 - #### **Object-Oriented Programming (OOP)**
-- #### **Spring Framework (Spring Boot, Spring MVC, Spring Data)**
+- #### **Spring Framework (Spring Boot, Spring MVC, Spring Data, Spring Security)**
 - #### **REST APIs**
 - #### **Java Database Connectivity (JDBC)**
 - #### **Hibernate**
