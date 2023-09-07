@@ -15,13 +15,15 @@
 ## **Skills**
 - #### **Java Programming**
 - #### **Object-Oriented Programming (OOP)**
-- #### **Spring Framework (Spring Boot, Spring MVC, Spring Data, Spring Security)**
+- #### **Spring Framework (Spring Boot, Spring MVC, Spring Data, Spring Security, Spring Cloud)**
 - #### **REST APIs**
 - #### **Java Database Connectivity (JDBC)**
 - #### **Hibernate**
 - #### **JUnit Testing**
+- #### **Mockito Testing**
 - #### **PostgreSQL**
 - #### **Maven**
+- #### **Gradle**
 - #### **Git**
 
 ## **Contact Me**
