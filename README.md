@@ -16,6 +16,8 @@
 - #### **Java Programming**
 - #### **Object-Oriented Programming (OOP)**
 - #### **Spring Framework (Spring Boot, Spring MVC, Spring Data, Spring Security, Spring Cloud)**
+- #### **Quarkus Framework**
+- #### **Servlet API**
 - #### **REST APIs**
 - #### **Microservices**
 - #### **Java Database Connectivity (JDBC)**
@@ -23,6 +25,9 @@
 - #### **JUnit Testing**
 - #### **Mockito Testing**
 - #### **PostgreSQL**
+- #### **MySQL**
+- #### **NoSQL**
+- #### **Docker**
 - #### **Maven**
 - #### **Gradle**
 - #### **Git**
