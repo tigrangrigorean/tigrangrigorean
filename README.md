@@ -1,5 +1,7 @@
 ﻿# **Hi, I'm Tigran.**
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%238B0000&lines=Java+Software+Engineer)](https://git.io/typing-svg)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 ### **I'm Java Software Engineer with a passion for creating innovative and scalable solutions. With a strong command of Java and a dedication to continuous learning, I specialize in developing robust applications that exceed expectations.**
@@ -34,4 +36,9 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tigrangrigorean)](https://git.io/streak-stats)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tigrangrigorean&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tigrangrigorean&theme=solarized_dark) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tigrangrigorean&layout=compact&theme=dark)
+
+
+
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
