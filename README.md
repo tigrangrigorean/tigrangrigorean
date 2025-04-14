@@ -1,14 +1,6 @@
 ﻿# **Hi, I'm Tigran.**
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Java+Software+Engineer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%238B0000&lines=Java+Software+Engineer)](https://git.io/typing-svg)
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-
-
-[![codewars](https://www.codewars.com/users/tigrangrigorean/badges/large)](https://www.codewars.com/users/tigrangrigorean)   
-
-
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
 
 ### **I'm Java Software Engineer with a passion for creating innovative and scalable solutions. With a strong command of Java and a dedication to continuous learning, I specialize in developing robust applications that exceed expectations.**
 
